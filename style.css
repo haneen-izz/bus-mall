@@ -12,9 +12,9 @@
     width: 200px;
     float: left;
     height: 160px;
-    border: 4px solid pink
+    border: 4px solid grey;
   }
-  #image-container {
+  #container {
     padding-left: 200px;
     border: 2px solid black;
     width: 1000px;
@@ -34,4 +34,11 @@
   #attempts {
     margin-left: 20px;
     font-size: 30px;
+  }
+  body{
+background-color:pink;
+  }
+  footer{
+    background-color: white;
+    text-align: center;
   }
